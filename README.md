@@ -50,7 +50,7 @@ Go [**`here`**](https://github.com/milaan9/Python_Natural_Language_Processing) i
 
 ---
 
-### How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" />
+### How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 
 1. Go [**`here`**](https://github.com/milaan9/Python_Natural_Language_Processing) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/milaan9/Python_Natural_Language_Processing/archive/refs/heads/main.zip).
 
